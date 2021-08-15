@@ -7,5 +7,6 @@ public abstract class p1 {
     {
     	//p1 ob1 = new p1(); >>>> we cannot create object for an abstract class : abstract class cannot be instantiated.
     	System.out.println ("test 1");
+    	System.out.println ("test 1");
     }
 }
