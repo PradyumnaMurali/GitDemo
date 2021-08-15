@@ -9,6 +9,7 @@ public abstract class p6 extends p5 {
 		System.out.println("from test1 of p6");
 		System.out.println("test 2");
 		System.out.println("test 3");
+		System.out.println("test 4");
 	}
 	public abstract void test3();
 
